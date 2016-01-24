@@ -1,0 +1,28 @@
+name: Irenicstratum
+favicon: null
+layout_spectrum: 0.02184888906776905
+typography_spectrum: 0.07998744491487741
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6007348070852458
+  lightness: 0.03854859247803688
+  saturation: 0.4765485394746065
+  rhythmicContrast: 0.9584902122151107
+purpose: []
